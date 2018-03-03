@@ -1,6 +1,6 @@
 # Clustering_Sandy_Tweets
 
-###Dependencies
+### Dependencies
 - Python 2.7
 - textblob (download using pip)
 - csv (download using pip)
